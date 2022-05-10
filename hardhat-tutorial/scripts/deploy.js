@@ -13,3 +13,6 @@ main()
     console.error(error);
     process.exit(1);
   });
+
+
+  // Whitelist Contract Address: 0x12bF1b878077bA5cCFdEED03926798E102b40Ee6
